@@ -1,0 +1,8 @@
+[package]
+name = "trySimpleAsyncRuntime"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+parking = "2.2.1"
+iou = "0.3.3"
